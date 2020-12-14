@@ -11,3 +11,5 @@ Sample expected from sequencing core 2013-01-10
 Samples expected from sequencing core 2020-12-14
 \n\nMaize reference genome version: refgen3
 \n \n Maize reference genome version: refgen3
+nnMaize reference genome version: refgen3
+nnMaize reference genome version: refgen3
