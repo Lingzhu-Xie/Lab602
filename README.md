@@ -8,3 +8,4 @@ Sample expected from sequencing core 2013-01-10
 =======
 # Lab602
 >>>>>>> fba55e26d8c05d69be51961d3d00674788fe6670
+Samples expected from sequencing core 2020-12-14
